@@ -1,0 +1,23 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #000000;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: black;
+    }
+
+    .password-container{
+        width: 355px;
+        position: relative;
+      }
+     
+      .fa-eye{
+        position: absolute;
+        top: 24%;
+        right: 4%;
+        cursor: pointer;
+        color: rgb(33, 31, 31);
+      }
